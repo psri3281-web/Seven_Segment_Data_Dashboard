@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 numpy
 pandas
+=======
+streamlit
+numpy
+pandas
+>>>>>>> 16344c99d392e68258f5a322d09cf7655aa5efec
 matplotlib

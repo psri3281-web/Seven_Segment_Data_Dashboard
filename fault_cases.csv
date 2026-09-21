@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Fault_ID,Input_Digit,Faulty_Segment,Expected_Result
 F01,0,G,Fault Detected
 F02,1,B,Fault Detected
 F03,2,A,Fault Detected
 F04,5,F,Fault Detected
+=======
+Fault_ID,Input_Digit,Faulty_Segment,Expected_Result
+F01,0,G,Fault Detected
+F02,1,B,Fault Detected
+F03,2,A,Fault Detected
+F04,5,F,Fault Detected
+>>>>>>> 16344c99d392e68258f5a322d09cf7655aa5efec
 F05,8,C,Fault Detected

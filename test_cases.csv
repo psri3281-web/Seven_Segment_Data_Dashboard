@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Test_ID,Input_Digit,Expected_Output,Status
 TC01,0,1111110,Pass
 TC02,1,0110000,Pass
@@ -8,4 +9,16 @@ TC06,5,1011011,Pass
 TC07,6,1011111,Pass
 TC08,7,1110000,Pass
 TC09,8,1111111,Pass
+=======
+Test_ID,Input_Digit,Expected_Output,Status
+TC01,0,1111110,Pass
+TC02,1,0110000,Pass
+TC03,2,1101101,Pass
+TC04,3,1111001,Pass
+TC05,4,0110011,Pass
+TC06,5,1011011,Pass
+TC07,6,1011111,Pass
+TC08,7,1110000,Pass
+TC09,8,1111111,Pass
+>>>>>>> 16344c99d392e68258f5a322d09cf7655aa5efec
 TC10,9,1111011,Pass
